@@ -1,16 +1,30 @@
-## Hi there 👋
+# Oceanside Cleaning Service
 
-<!--
-**oceansidecleaningservice/oceansidecleaningservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional house cleaning services in Oceanside, CA and North San Diego County.
 
-Here are some ideas to get you started:
+**[Oceanside Cleaning Service](https://www.oceansidecleaningservice.com/)** is a locally owned, licensed, and insured cleaning company serving homes and apartments across Oceanside, Carlsbad, Vista, Encinitas, San Marcos, Del Mar, Escondido, Fallbrook, and surrounding communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Services
+
+- House Cleaning
+- Apartment Cleaning
+- Deep Cleaning
+- Move In / Move Out Cleaning
+- Post Construction Cleaning
+
+## Why Choose Us
+
+- ⭐ 5/5 Star Rated on Google
+- ✅ 48-Hour Satisfaction Guarantee
+- 🔒 Licensed & Insured Maids
+- 🏠 Locally Owned & Operated
+- 📅 Flexible Scheduling (Weekly, Bi-Weekly, Monthly)
+
+## Contact
+
+- **Phone:** (858) 742-2452
+- **Website:** [Oceanside Cleaning Service](https://www.oceansidecleaningservice.com/)
+
+---
+
+© 2025 [Oceanside Cleaning Service](https://www.oceansidecleaningservice.com/). All rights reserved.
